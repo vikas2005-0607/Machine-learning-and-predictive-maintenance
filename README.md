@@ -125,8 +125,8 @@ streamlit run app.py
 
 ## Author
 
-**Achyant Shrivastava**
-*Department of Mining Engineering, IIT (BHU), Varanasi*
+**Vikas Modanwal**
+*Department of Mining Engineering, IIT ISM Dhanbad*
 
 ---
 
